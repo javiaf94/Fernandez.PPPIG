@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589840958 source:c:\users\grabi\desktop\parcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
